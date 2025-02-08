@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Jérémie Konda"
+# copyright = "Jérémie Konda"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "Personal website of Jérémie Konda"
+
+[params.author]
+  name = "Jérémie Konda"
+  image = "assets/img/pic2.png"
+  headline = "Computer Science Student"
+  bio = "Computer Science Student"
+  links = [
+    { github = "https://github.com/jkengineer42" },
+    { linkedin = "https://www.linkedin.com/in/jeremie-konda/" },
+    { email = "mailto:jeremie.konda@outlook.fr" },
+  ]
